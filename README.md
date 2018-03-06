@@ -14,7 +14,7 @@ Very simple research project template to make setting up new projects easy.
 
 This will create the raw folder structure and commit everything to a local Git repository.  
 
-You can also pass a second argument, which should be the path to an empty, initialized Git repo (i.e. https://github.com/lukaskawerau/my_project_name.git), which will automatically push the first commit to that empty repo.  
+You can also pass a second argument, which should be the path to an empty, initialized Github repo (i.e. https://github.com/lukaskawerau/my_project_name.git), which will automatically push the first commit to that empty repo.  
 In this case, the workflow for creating a new project looks like this:  
 
 1. Create a new project on Github: no README.md, no .gitignore
